@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="color-select.svg"
+   height="32"
+   id="svg7384"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   width="32">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:current-layer="layer9"
+     inkscape:cx="-80.52067"
+     inkscape:cy="-17.517045"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#433342"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     showborder="false"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="1311"
+     inkscape:window-maximized="1"
+     inkscape:window-width="2560"
+     inkscape:window-x="0"
+     inkscape:window-y="55"
+     inkscape:zoom="4">
+    <inkscape:grid
+       empspacing="2"
+       enabled="true"
+       id="grid4866"
+       originx="60.000002px"
+       originy="20.05px"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="tools"
+     style="display:inline"
+     transform="translate(-181.0002,-221.05)">
+    <rect
+       height="1.9937695"
+       id="rect29813"
+       rx="0"
+       ry="0.99688476"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="1.9937491"
+       x="189.02519"
+       y="221.05" />
+    <rect
+       height="1.9937695"
+       id="rect29815"
+       rx="0.1762242"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="1.9937491"
+       x="193.01271"
+       y="221.05" />
+    <rect
+       height="1.9937695"
+       id="rect29817"
+       rx="0.1762242"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="1.9937491"
+       x="197.0002"
+       y="221.05" />
+    <rect
+       height="1.9937695"
+       id="rect29819"
+       rx="0.1762242"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="1.9937491"
+       x="200.98769"
+       y="221.05" />
+    <rect
+       height="1.9937695"
+       id="rect29821"
+       rx="0.1762242"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="1.9937524"
+       x="204.9752"
+       y="221.05" />
+    <rect
+       height="1.9937695"
+       id="rect29823"
+       rx="0.1762242"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="1.9937524"
+       x="204.9752"
+       y="225.03754" />
+    <rect
+       height="1.9937695"
+       id="rect29825"
+       rx="0.1762242"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="204.9752"
+       y="-231.01884" />
+    <rect
+       height="1.9937695"
+       id="rect29827"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="204.9752"
+       y="-235.00639" />
+    <rect
+       height="1.9937695"
+       id="rect29829"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="204.9752"
+       y="-238.99393" />
+    <rect
+       height="1.9937695"
+       id="rect29831"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="185.0377"
+       y="-231.01884" />
+    <rect
+       height="1.9937695"
+       id="rect29833"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="185.0377"
+       y="-227.03131" />
+    <rect
+       height="1.9937695"
+       id="rect29835"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="185.0377"
+       y="-223.04376" />
+    <ellipse
+       id="path29837"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       cx="196.00334"
+       cy="230.02196"
+       rx="4.984374"
+       ry="4.9844251" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 203.97832,242.98146 c -2.74098,0 -4.98437,2.26584 -4.98437,5.03427 0,2.76843 2.24339,5.03427 4.98437,5.03427 2.74099,0 4.98438,-2.26584 4.98438,-5.03427 0,-2.76843 -2.24339,-5.03427 -4.98438,-5.03427 z m 0,2.01371 c 1.6635,0 2.99063,1.34041 2.99063,3.02056 0,1.68015 -1.32713,3.02056 -2.99063,3.02056 -1.6635,0 -2.99062,-1.34041 -2.99062,-3.02056 0,-1.68015 1.32712,-3.02056 2.99062,-3.02056 z"
+       id="path29839"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <ellipse
+       id="path29841"
+       style="opacity:0.3;fill:#808080;fill-opacity:1;stroke:none"
+       cx="190.02208"
+       cy="247.96588"
+       rx="4.9843726"
+       ry="4.9844236" />
+    <rect
+       height="1.9937695"
+       id="rect29843"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="185.0377"
+       y="-235.00639" />
+    <rect
+       height="1.9937695"
+       id="rect29845"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="185.0377"
+       y="-238.99393" />
+    <rect
+       height="1.9937695"
+       id="rect29847"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="189.02519"
+       y="-238.99393" />
+    <rect
+       height="1.9937695"
+       id="rect29849"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="193.01271"
+       y="-238.99393" />
+    <rect
+       height="1.9937695"
+       id="rect29851"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="197.0002"
+       y="-238.99393" />
+    <rect
+       height="1.9937695"
+       id="rect29853"
+       rx="0.17622419"
+       ry="0"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)"
+       width="1.9937524"
+       x="200.98769"
+       y="-238.99393" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="preferences"
+     transform="translate(60.000002,-4.0499992)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="stock"
+     transform="translate(60.000002,-4.0499992)" />
+</svg>

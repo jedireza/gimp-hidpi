@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="ink.svg"
+   height="32"
+   id="svg7384"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   width="32">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:current-layer="layer9"
+     inkscape:cx="-11.477302"
+     inkscape:cy="-20.067045"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#433342"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     showborder="false"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="1311"
+     inkscape:window-maximized="1"
+     inkscape:window-width="2560"
+     inkscape:window-x="0"
+     inkscape:window-y="55"
+     inkscape:zoom="4">
+    <inkscape:grid
+       empspacing="2"
+       enabled="true"
+       id="grid4866"
+       originx="80.043371px"
+       originy="-40px"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="tools"
+     style="display:inline"
+     transform="translate(-160.95683,-161)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 178.97292,175.07031 c -1.10367,0 -1.99219,0.50711 -1.99219,1.12061 l 0,1.74316 c 0,0.61349 0.88852,1.12061 1.99219,1.12061 l -3.98437,0 c -1.09891,0 -2.19619,1.05691 -1.92994,2.30346 l 1.92994,9.33838 c 0.26623,1.24655 0.89333,2.30347 1.99218,2.30347 l 11.95313,0 c 1.09889,0 1.72597,-1.05692 1.99219,-2.30347 l 1.99219,-9.33838 c 0.26623,-1.24655 -0.8933,-2.30346 -1.99219,-2.30346 l -3.98438,0 c 1.10367,0 1.99219,-0.50712 1.99219,-1.12061 l 0,-1.74316 c 0,-0.6135 -0.88852,-1.12061 -1.99219,-1.12061 l -7.96875,0 z"
+       id="rect18742"
+       style="fill:#808080;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 174.98855,161.125 c 0,0 -2.57927,0.35224 -5.31251,1.99218 -6.64062,3.98438 -8.63281,10.91582 -8.63281,13.94532 -0.68481,8.15552 2.92603,9.96094 2.92603,9.96094 0.18667,3.98437 1.05835,5.97656 1.05835,5.97656 1.99219,-1.99219 1.99219,-1.99219 1.99219,-1.99219 0,0 -1.99219,-4.98047 1.99218,-5.97656 -0.99609,-9.96094 -0.20752,-17.92969 5.97657,-23.90625 z"
+       id="path23470"
+       sodipodi:nodetypes="cscccccc"
+       style="fill:#808080;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="preferences"
+     transform="translate(80.043371,56)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="stock"
+     transform="translate(80.043371,56)" />
+</svg>

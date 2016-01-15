@@ -1,0 +1,250 @@
+style "gimp-icons"
+{
+  stock["gimp-color-pick-from-screen"] =
+  {
+    {"images/color-picker.svg", *, *, "gtk-button" },
+    { "images/color-picker.svg", *, *, * }
+  }
+  stock["gimp-edit"] =
+  {
+    { "images/edit.svg", *, *, "gtk-button" },
+    { "images/edit.svg", *, *, * }
+  }
+  stock["gimp-flip-vertical"] =
+  {
+    { "images/flip-vertical.svg", *, *, "gtk-button" },
+    { "images/flip-vertical.svg", *, *, * }
+  }
+  stock["gimp-gegl"] =
+  {
+    { "images/gegl.svg", *, *, "gtk-button" },
+    { "images/gegl.svg", *, *, * }
+  }
+  stock["gimp-histogram"] =
+  {
+    { "images/histogram.svg", *, *, "gtk-button" },
+    { "images/histogram.svg", *, *, * }
+  }
+  stock["gimp-tool-airbrush"] =
+  {
+    { "images/airbrush.svg", *, *, "gtk-button" },
+    { "images/airbrush.svg", *, *, * }
+  }
+  stock["gimp-tool-align"] =
+  {
+    { "images/align.svg", *, *, "gtk-button" },
+    { "images/align.svg", *, *, * }
+  }
+  stock["gimp-tool-blend"] =
+  {
+    { "images/gradient.svg", *, *, "gtk-button" },
+    { "images/gradient.svg", *, *, * }
+  }
+  stock["gimp-tool-blur"] =
+  {
+    { "images/blur.svg", *, *, "gtk-button" },
+    { "images/blur.svg", *, *, * }
+  }
+  stock["gimp-tool-brightness-contrast"] =
+  {
+    { "images/brightness-contrast.svg", *, *, "gtk-button" },
+    { "images/brightness-contrast.svg", *, *, * }
+  }
+  stock["gimp-tool-bucket-fill"] =
+  {
+    { "images/bucket-fill.svg", *, *, "gtk-button" },
+    { "images/bucket-fill.svg", *, *, * }
+  }
+  stock["gimp-tool-by-color-select"] =
+  {
+    { "images/color-select.svg", *, *, "gtk-button" },
+    { "images/color-select.svg", *, *, * }
+  }
+  stock["gimp-tool-cage"] =
+  {
+    { "images/cage-transformation.svg", *, *, "gtk-button" },
+    { "images/cage-transformation.svg", *, *, * }
+  }
+  stock["gimp-tool-clone"] =
+  {
+    { "images/clone.svg", *, *, "gtk-button" },
+    { "images/clone.svg", *, *, * }
+  }
+  stock["gimp-tool-color-balance"] =
+  {
+    { "images/color-balance.svg", *, *, "gtk-button" },
+    { "images/color-balance.svg", *, *, * }
+  }
+  stock["gimp-tool-color-picker"] =
+  {
+    { "images/color-picker.svg", *, *, "gtk-button" },
+    { "images/color-picker.svg", *, *, * }
+  }
+  stock["gimp-tool-colorize"] =
+  {
+    { "images/colorize.svg", *, *, "gtk-button" },
+    { "images/colorize.svg", *, *, * }
+  }
+  stock["gimp-tool-crop"] =
+  {
+    { "images/crop.svg", *, *, "gtk-button" },
+    { "images/crop.svg", *, *, * }
+  }
+  stock["gimp-tool-curves"] =
+  {
+    { "images/curves.svg", *, *, "gtk-button" },
+    { "images/curves.svg", *, *, * }
+  }
+  stock["gimp-tool-desaturate"] =
+  {
+    { "images/desaturate.svg", *, *, "gtk-button" },
+    { "images/desaturate.svg", *, *, * }
+  }
+  stock["gimp-tool-dodge"] =
+  {
+    { "images/dodge.svg", *, *, "gtk-button" },
+    { "images/dodge.svg", *, *, * }
+  }
+  stock["gimp-tool-ellipse-select"] =
+  {
+    { "images/ellipse.svg", *, *, "gtk-button" },
+    { "images/ellipse.svg", *, *, * }
+  }
+  stock["gimp-tool-eraser"] =
+  {
+    { "images/eraser.svg", *, *, "gtk-button" },
+    { "images/eraser.svg", *, *, * }
+  }
+  stock["gimp-tool-flip"] =
+  {
+    { "images/flip-vertical.svg", *, *, "gtk-button" },
+    { "images/flip-vertical.svg", *, *, * }
+  }
+  stock["gimp-tool-foreground-select"] =
+  {
+    { "images/foreground-selection.svg", *, *, "gtk-button" },
+    { "images/foreground-selection.svg", *, *, * }
+  }
+  stock["gimp-tool-free-select"] =
+  {
+    { "images/select-lasso.svg", *, *, "gtk-button" },
+    { "images/select-lasso.svg", *, *, * }
+  }
+  stock["gimp-tool-fuzzy-select"] =
+  {
+    { "images/fuzzy-select-wand.svg", *, *, "gtk-button" },
+    { "images/fuzzy-select-wand.svg", *, *, * }
+  }
+  stock["gimp-tool-heal"] =
+  {
+    { "images/heal.svg", *, *, "gtk-button" },
+    { "images/heal.svg", *, *, * }
+  }
+  stock["gimp-tool-hue-saturation"] =
+  {
+    { "images/hue-saturation.svg", *, *, "gtk-button" },
+    { "images/hue-saturation.svg", *, *, * }
+  }
+  stock["gimp-tool-ink"] =
+  {
+    { "images/ink.svg", *, *, "gtk-button" },
+    { "images/ink.svg", *, *, * }
+  }
+  stock["gimp-tool-iscissors"] =
+  {
+    { "images/intelligent-scissors.svg", *, *, "gtk-button" },
+    { "images/intelligent-scissors.svg", *, *, * }
+  }
+  stock["gimp-tool-levels"] =
+  {
+    { "images/histogram.svg", *, *, "gtk-button" },
+    { "images/histogram.svg", *, *, * }
+  }
+  stock["gimp-tool-levels"] =
+  {
+    { "images/levels.svg", *, *, "gtk-button" },
+    { "images/levels.svg", *, *, * }
+  }
+  stock["gimp-tool-measure"] =
+  {
+    { "images/measure.svg", *, *, "gtk-button" },
+    { "images/measure.svg", *, *, * }
+  }
+  stock["gimp-tool-move"] =
+  {
+    { "images/move.svg", *, *, "gtk-button" },
+    { "images/move.svg", *, *, * }
+  }
+  stock["gimp-tool-paintbrush"] =
+  {
+    { "images/brush.svg", *, *, "gtk-button" },
+    { "images/brush.svg", *, *, * }
+  }
+  stock["gimp-tool-path"] =
+  {
+    { "images/path.svg", *, *, "gtk-button" },
+    { "images/path.svg", *, *, * }
+  }
+  stock["gimp-tool-pencil"] =
+  {
+    { "images/pencil.svg", *, *, "gtk-button" },
+    { "images/pencil.svg", *, *, * }
+  }
+  stock["gimp-tool-perspective"] =
+  {
+    { "images/perspective.svg", *, *, "gtk-button" },
+    { "images/perspective.svg", *, *, * }
+  }
+  stock["gimp-tool-perspective-clone"] =
+  {
+    { "images/perspective-clone.svg", *, *, "gtk-button" },
+    { "images/perspective-clone.svg", *, *, * }
+  }
+  stock["gimp-tool-posterize"] =
+  {
+    { "images/posterize.svg", *, *, "gtk-button" },
+    { "images/posterize.svg", *, *, * }
+  }
+  stock["gimp-tool-rect-select"] =
+  {
+    { "images/rectangle.svg", *, *, "gtk-button" },
+    { "images/rectangle.svg", *, *, * }
+  }
+  stock["gimp-tool-rotate"] =
+  {
+    { "images/rotate.svg", *, *, "gtk-button" },
+    { "images/rotate.svg", *, *, * }
+  }
+  stock["gimp-tool-scale"] =
+  {
+    { "images/scale.svg", *, *, "gtk-button" },
+    { "images/scale.svg", *, *, * }
+  }
+  stock["gimp-tool-shear"] =
+  {
+    { "images/shear.svg", *, *, "gtk-button" },
+    { "images/shear.svg", *, *, * }
+  }
+  stock["gimp-tool-smudge"] =
+  {
+    { "images/smudge.svg", *, *, "gtk-button" },
+    { "images/smudge.svg", *, *, * }
+  }
+  stock["gimp-tool-text"] =
+  {
+    { "images/text.svg", *, *, "gtk-button" },
+    { "images/text.svg", *, *, * }
+  }
+  stock["gimp-tool-threshold"] =
+  {
+    { "images/threshold.svg", *, *, "gtk-button" },
+    { "images/threshold.svg", *, *, * }
+  }
+  stock["gimp-tool-zoom"] =
+  {
+    { "images/zoom.svg", *, *, "gtk-button" },
+    { "images/zoom.svg", *, *, * }
+  }
+}
+
+class "GtkWidget" style "gimp-icons"
