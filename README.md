@@ -19,7 +19,7 @@ repo](https://github.com/jedireza/gimp-hidpi/archive/master.zip).
 2.) Then unzip it into your local Gimp themes folder:
 
 ```bash
-$ unzip -j gimp-hidpi-master.zip -d ~/.gimp-2.8/themes/gimp-hidpi/
+$ unzip gimp-hidpi-master.zip -d ~/.gimp-2.8/themes/gimp-hidpi/
 ```
 
 3.) Then choose the theme in Gimp via `Edit > Preferences`.
